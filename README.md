@@ -1,3 +1,5 @@
+### This is the most up-to-date public version of the Discord Ready Bot.
+
 # DiscordReadyBot
 A discord bot to check if players are ready to participate.
 
